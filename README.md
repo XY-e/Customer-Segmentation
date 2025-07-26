@@ -49,8 +49,8 @@ This project performs customer segmentation using unsupervised machine learning 
       - Cluster 2: 79.36
       - Cluster 3: 17.11
       - Cluster 4: 20.91
-  - DBSCAN Clustering
-    - Clusters Found: 2 (excluding noise)
-    - Cluster Spending Score Means:
-      - Cluster 0: 43.10
-      - Cluster 1: 82.80
+- DBSCAN Clustering
+  - Clusters Found: 2 (excluding noise)
+  - Cluster Spending Score Means:
+    - Cluster 0: 43.10
+    - Cluster 1: 82.80
